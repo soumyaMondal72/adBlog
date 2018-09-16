@@ -78,7 +78,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel App
+                    Laravel Git Setup
                 </div>
 
                 <div class="links">
